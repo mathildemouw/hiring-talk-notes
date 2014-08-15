@@ -31,6 +31,7 @@ http://blog.sparefoot.com/3430-land-the-job-how-to-rock-your-startup-interview/
 http://mashable.com/2011/05/17/startup-interview-tips/
 https://www.udemy.com/blog/software-engineer-interview-questions/
 
+http://www.joelonsoftware.com/articles/GuerrillaInterviewing3.html
 
 --dedication/obsession
 --are you like me?
