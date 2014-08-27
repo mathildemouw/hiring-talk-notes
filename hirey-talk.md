@@ -26,6 +26,7 @@ http://carlos.bueno.org/2014/06/refactoring.html
 http://selectingwinners.com/interviewing/phone-interview-tips/
 
 the startup standard:
+http://seriousstartups.com/2013/06/09/15-interview-questions-startup-hire/
 http://fueled.com/blog/want-to-work-at-startup-nail-these-9-interview-questions/
 http://blog.sparefoot.com/3430-land-the-job-how-to-rock-your-startup-interview/
 http://mashable.com/2011/05/17/startup-interview-tips/
@@ -37,7 +38,7 @@ http://www.joelonsoftware.com/articles/GuerrillaInterviewing3.html
 --are you like me?
 --smartness puzzle questions
 --technical trivia questions
-
+	
 --pairing
 --how can I use this person's talent?
 

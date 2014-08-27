@@ -1,9 +1,3 @@
-Research and notes for a talk on how to have awesome hiring practices:
+Resources and slides from my talk on hiring practices in tech that I gave on 8/25/14 at Double Union in San Francisco. 
 
-Includes cool pdfs from NCWIT
-Also my notes
-
-Have a great day!
-
-Sincerely,
-Mathilde
+To see the actual presentation slides: /deck.js-latest/introduction/index.html.
